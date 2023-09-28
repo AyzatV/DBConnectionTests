@@ -1,2 +1,10 @@
 # DBConnectionTests
-C++ console app for unit testing of the emulated database connection
+***
+##### C++ console app for unit testing of the emulated database connection
+***
+
+Данное приложение является выполнением задания 32.6.1 курса Skillfactory "Разработчик на С++", в котором нужно было создать тесты, в том числе с использованием мок-объекта, имитирующие подключение к базе данных.
+
+Приложение создано в 64-разрядной версии для операционной системы Windows.
+
+В комплекте имеется исполняемый файл версии release.
